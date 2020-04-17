@@ -1,6 +1,5 @@
 class Solution:
     def combinationSum(self, candidates, target):
-        candidates.sort(reverse=True)
         results = []
         for index, candidate in enumerate(candidates):
             c = [candidate]
