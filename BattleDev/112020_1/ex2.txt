@@ -1,0 +1,7 @@
+6 4
+Colette Paris Lille
+Matt Grenoble Dijon
+Benjamin Paris Lille
+Michel Paris Lille
+Pascal Grenoble Dijon
+Marie Paris Lille
